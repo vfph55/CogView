@@ -1,4 +1,5 @@
 .idea/
+pretrained/cogview
 *_jax*
 events.out*
 __pycache__/
